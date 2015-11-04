@@ -1,0 +1,22 @@
+{
+  "name": "vue-seed",
+  "version": "0.0.1",
+  "authors": [
+    "insCake <m.saihomi@me.com>"
+  ],
+  "description": "The basic elements for building application powered by VUE.JS.",
+  "keywords": [
+    "vue-seed"
+  ],
+  "dependencies": {
+    "pure": "~0.6.0"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

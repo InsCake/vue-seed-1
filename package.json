@@ -1,0 +1,26 @@
+{
+  "name": "vue-seed",
+  "version": "0.0.1",
+  "description": "The basic elements for building application powered by VUE.JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-seed"
+  ],
+  "author": "insCake <m.sahomi@gmail.com>",
+  "devDependencies": {
+    "webpack": "^1.12.2",
+    "vue-loader": "^1.1.6",
+    "css-loader": "^0.14.5",
+    "style-loader": "^0.12.4"
+  },
+  "dependencies": {
+    "vue": "~1.0.4",
+    "vue-router": "^0.5.2",
+    "vue-resource": "^0.1.16",
+    "vue-validator": "^1.4.4"
+  },
+  "license": "ISC"
+}
